@@ -10,6 +10,12 @@ During this project, I will be overlooking the existing html and css files and c
 
 ### Implementing Semantic Elements
 
-The first thing noticeable about the html code is that there's a lot of unnecesary div classes implemented. The div class = "header" tag, for example, can be replaced by just a header tag, a semantic html element that describes its functionality. Since the initial code had a div class = "header", the css code had corresponding .header functions. To ensure that the external webpage remains the same, the css functions got changed from .header to header. The same changes are also made to the div class = "footer" tag. 
+ The div class = "header" tag, for example, can be replaced by a semantic header tag. Since the initial code had a div class = "header", the css code had corresponding .header functions. To ensure that the external webpage remains the same, the css functions got changed from .header to header. 
+ 
+ The same changes are also made to the div class = "footer" tag. 
+ 
+ Furthermore, div tags in the body are replaced by semantic section elements and the div class in the header is replaced by nav elements.
 
-Furthermore, div tags in the body, which aren't semantic, can be replaced by more semantic elements such as section. Those replacements are also implemented in the refactoring. 
+ ### Logical Structuring of HTML
+
+ The html code was reviewed to ensure all of the html elements follow the proper structure. Header tags contain subtags between h1-h6, section tags are chronologically ordered based on the external website, and the subsections follow the same structure. 
