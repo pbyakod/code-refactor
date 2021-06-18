@@ -20,6 +20,6 @@ During this project, I will be overlooking the existing html and css files and c
 
  The html code was reviewed to ensure all of the html elements follow the proper structure. Header tags contain subtags between h1-h6, section tags are chronologically ordered based on the external website, and the subsections follow the same structure. 
 
- ## Alt Elements in Img Tag
+ ### Alt Elements in Img Tag
 
  The img tags in the contents and benefits sections are updated to include alt placeholder tags with the same name as the images.
