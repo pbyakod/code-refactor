@@ -28,3 +28,6 @@
 
  The most important thing about heading elements is that there sequentially ordered. According to the restructured code, the h tags flow from h1 to h3 as you scroll down the page. 
 
+## Title Attribute
+
+ Finally, the current title of the webpage, denoted as website, is changed to "Horiseon: Your Premier Marketing Agency" to better reflect the company's position. 
