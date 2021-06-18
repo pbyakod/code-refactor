@@ -2,11 +2,11 @@
 
 ### Short Description
 
-This project aims to refactor the html code provided by a marketing agency. The idea of refactoring involves restructuring the existing html and css code without altering the websites browser design. By doing so, the company can present a structured code design that is more accesible and easier to implement on various search engines.  
+ This project aims to refactor the html code provided by a marketing agency. The idea of refactoring involves restructuring the existing html and css code without altering the websites browser design. By doing so, the company can present a structured code design that is more accesible and easier to implement on various search engines.  
 
 ### Task Outline
 
-During this project, I will be overlooking the existing html and css files and continually altering the anatomy of the code. Most of the changes made to the code follow a certain guideline, that increases the code's accesibility to other web developers. The guidline includes implementing semantic html elements, ensuring that the code follows logical structuring, applying accesible alt attributes, and making sure that both the header and footer tags are properly organized. 
+ During this project, I will be overlooking the existing html and css files and continually altering the anatomy of the code. Most of the changes made to the code follow a certain guideline, that increases the code's accesibility to other web developers. The guidline includes implementing semantic html elements, ensuring that the code follows logical structuring, applying accesible alt attributes, and making sure that both the header and footer tags are properly organized. 
 
 ### Implementing Semantic Elements
 
@@ -23,4 +23,8 @@ During this project, I will be overlooking the existing html and css files and c
 ### Alt Elements in Img Tag
 
  The img tags in the contents and benefits sections are updated to include alt placeholder tags with the same name as the images.
+
+### Heading Attributes 
+
+ The most important thing about heading elements is that there sequentially ordered. According to the restructured code, the h tags flow from h1 to h3 as you scroll down the page. 
 
